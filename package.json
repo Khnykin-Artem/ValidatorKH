@@ -1,0 +1,16 @@
+{
+  "name": "validatordf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ValidationDF.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitflic.ru/project/defonce1/validation-df.git"
+  },
+  "author": "DeFonce1",
+  "license": "ISC"
+}
